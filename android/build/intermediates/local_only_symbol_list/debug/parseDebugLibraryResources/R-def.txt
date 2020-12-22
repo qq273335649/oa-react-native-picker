@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+anim picker_enter
+anim picker_exit
+id barLayout
+id cancel
+id confirm
+id loopViewOne
+id loopViewThree
+id loopViewTwo
+id pickerLayout
+id pickerViewAlone
+id pickerViewAloneLayout
+id pickerViewLinkage
+id title
+layout picker_view
+layout picker_view_alone
+layout picker_view_linkage
+string app_name
+style Dialog_Full_Screen
+style PickerAnim
