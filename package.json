@@ -31,20 +31,20 @@
     "name": "zooble"
   },
   "bugs": {
-    "url": "https://github.com/beefe/react-native-picker/issues"
+    "url": "https://github.com/qq273335649/oa-react-native-picker/issues"
   },
   "description": "A Native Picker with high performance.",
-  "homepage": "https://github.com/beefe/react-native-picker",
+  "homepage": "https://github.com/qq273335649/oa-react-native-picker",
   "license": "MIT",
   "main": "index.js",
   "name": "oa-react-native-picker",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/beefe/react-native-picker.git"
+    "url": "git+ssh://git@github.com/qq273335649/oa-react-native-picker.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "types": "index.d.ts",
-  "version": "5.0.0"
+  "version": "5.0.2"
 }
